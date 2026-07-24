@@ -1,4 +1,4 @@
-### Hi, I'm Tati 👋
+### Hi, I'm Tanya 👋
  
 Software QA Engineer (12+ yrs) transitioning into Python SDET.
 I like understanding how things break - not just confirming they work.
